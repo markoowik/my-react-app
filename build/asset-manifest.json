@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3e67b450.css",
+    "main.js": "/static/js/main.14c10c87.js",
+    "static/media/ProfilePic.png": "/static/media/ProfilePic.db7658d1984a588879bd.png",
+    "static/media/AvatarAndIcons.svg": "/static/media/AvatarAndIcons.37f0fffe65aca8ff7332c703e0b6cd33.svg",
+    "static/media/image 1.png": "/static/media/image 1.ed70c62b235a316d4fb8.png",
+    "static/media/behance.svg": "/static/media/behance.3c9db1090fc6e60d0676af56f87e6eb5.svg",
+    "static/media/Design2.svg": "/static/media/Design2.5591bfe409a581ad2f026969678c4960.svg",
+    "static/media/ProjectsIcon.svg": "/static/media/ProjectsIcon.fa8f5a9b87695165b40bf0567cc63ddb.svg",
+    "static/media/WhatsappLogo.svg": "/static/media/WhatsappLogo.f9fbd06e0d05448d3bd9.svg",
+    "static/media/DesignIcon.svg": "/static/media/DesignIcon.132097ae93be5c667595933cfae7af25.svg",
+    "static/media/github.svg": "/static/media/github.4e7a01295b65210d9c66cf2c20a13024.svg",
+    "static/media/CodeIcon.svg": "/static/media/CodeIcon.ba7c7fb0711e64a0d4cd4e48b41c4f2e.svg",
+    "static/media/Logo.svg": "/static/media/Logo.8af4882955a77001aa3210589b36cfd7.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.43e4eada3ff8ee4ca473d812d8d74974.svg",
+    "index.html": "/index.html",
+    "static/media/ArrowLineDown.svg": "/static/media/ArrowLineDown.df65273a4ced28103386.svg",
+    "main.3e67b450.css.map": "/static/css/main.3e67b450.css.map",
+    "main.14c10c87.js.map": "/static/js/main.14c10c87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e67b450.css",
+    "static/js/main.14c10c87.js"
+  ]
+}
