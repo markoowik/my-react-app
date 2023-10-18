@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/my-react-app/static/css/main.c85e910a.css",
+    "main.js": "/my-react-app/static/js/main.3271b9fc.js",
+    "static/media/ProfilePic.png": "/my-react-app/static/media/ProfilePic.db7658d1984a588879bd.png",
+    "static/media/AvatarAndIcons.svg": "/my-react-app/static/media/AvatarAndIcons.55b22d43c0d248978cd0b38985c1fe3e.svg",
+    "static/media/image 1.png": "/my-react-app/static/media/image 1.ed70c62b235a316d4fb8.png",
+    "static/media/behance.svg": "/my-react-app/static/media/behance.400fa5e70edff6403aa8a571f93b4b3f.svg",
+    "static/media/Design2.svg": "/my-react-app/static/media/Design2.11c435d60d68f0a72d5e4ad75fcf0d39.svg",
+    "static/media/ProjectsIcon.svg": "/my-react-app/static/media/ProjectsIcon.c5d2a92d64594653facc001f2d7fe4f9.svg",
+    "static/media/WhatsappLogo.svg": "/my-react-app/static/media/WhatsappLogo.c8be94ef16fc7133bbb2.svg",
+    "static/media/DesignIcon.svg": "/my-react-app/static/media/DesignIcon.6fe11d1715fd8f021585488f28b4f7ac.svg",
+    "static/media/github.svg": "/my-react-app/static/media/github.b75d9c947429efafa686c7a1680e100d.svg",
+    "static/media/CodeIcon.svg": "/my-react-app/static/media/CodeIcon.16df43d6e2fcfa69c199a183e316c0f4.svg",
+    "static/media/Logo.svg": "/my-react-app/static/media/Logo.4474055274d87a85fbf4236fdd2115da.svg",
+    "static/media/linkedin.svg": "/my-react-app/static/media/linkedin.356870953d805799c5553204cf9be569.svg",
+    "index.html": "/my-react-app/index.html",
+    "static/media/ArrowLineDown.svg": "/my-react-app/static/media/ArrowLineDown.89428e9f7ad0b5c65b93.svg",
+    "main.c85e910a.css.map": "/my-react-app/static/css/main.c85e910a.css.map",
+    "main.3271b9fc.js.map": "/my-react-app/static/js/main.3271b9fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c85e910a.css",
+    "static/js/main.3271b9fc.js"
+  ]
+}
