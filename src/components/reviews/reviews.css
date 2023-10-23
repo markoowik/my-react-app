@@ -1,0 +1,82 @@
+.reviews {
+  margin-bottom: 123px;
+  padding: 0 140px 20px 140px;
+}
+.reviews__content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.reviews__text {
+  display: flex;
+  gap: 874px;
+}
+.reviews__title {
+  color: #fff;
+
+  font-size: 48px;
+
+  font-weight: 800;
+  position: relative;
+  z-index: -5;
+  line-height: normal;
+}
+.reviews__text-btns {
+  cursor: pointer;
+  display: flex;
+  gap: 16px;
+  position: relative;
+  right: 100px;
+}
+.reviews__cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 70px;
+  padding-top: 64px;
+}
+.reviews__card {
+  padding: 74.87px 30.64px 108.58px 29.9px;
+  width: 500px;
+  height: 295px;
+  border-radius: 16px;
+  border: 1px solid rgba(123, 74, 226, 0.5);
+}
+.reviews__card:hover {
+  background-color: rgba(123, 74, 226, 0.1);
+}
+.reviews__card > img {
+  margin-top: -55px;
+}
+.reviews__desc {
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 16px;
+  font-weight: 400;
+  margin-top: -30px;
+  line-height: normal;
+}
+.reviews__account-name {
+  padding-top: 1px;
+  padding-left: 40.01px;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  line-height: normal;
+}
+.reviews__account-name::before {
+  content: url("./../../img/image/avatar.png");
+  position: relative;
+  top: 20px;
+  right: 30px;
+}
+.reviews__account-desc {
+  color: rgba(123, 74, 226, 0.5);
+  font-size: 16px;
+  margin-top: -20px;
+  font-weight: 700;
+  line-height: normal;
+  padding-left: 105.01px;
+}

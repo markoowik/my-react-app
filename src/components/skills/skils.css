@@ -1,0 +1,39 @@
+.skills {
+  margin-bottom: 63px;
+  padding: 120px 196px 0 196px;
+}
+.skills__content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.skills__title {
+  color: #fff;
+  text-align: center;
+  padding-left: 190px;
+  font-size: 48px;
+  font-weight: 800;
+  line-height: normal;
+}
+.skills__title::after {
+  content: url("./../../img/image/Rectangle\ 3\ \(4\).png");
+  position: relative;
+  bottom: 90px;
+  right: 360px;
+}
+.skills__technology-title {
+  color: rgba(255, 255, 255, 0.5);
+  /* text-align: center; */
+  padding-left: 300px;
+  width: 780px;
+  font-size: 24px;
+  font-weight: 400;
+  padding-top: 100.93px;
+  line-height: normal;
+}
+.skills__technology ul {
+  display: flex;
+  padding-top: 40px;
+  column-gap: 32px;
+}

@@ -16,7 +16,7 @@ const Information = () => {
               <div className="information__desc">3 anos como</div>
               <div className="information__title">Programador</div>
             </div>
-            <div className="information__card card">
+            <div className="information__card">
               <div className="information__img">
                 <img src={ProjectsIconImg} alt="" />
               </div>

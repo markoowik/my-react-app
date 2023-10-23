@@ -12,6 +12,7 @@
 }
 .information__cards {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
   padding: 150px;
   column-gap: 80px;
@@ -26,12 +27,12 @@
   flex-direction: column;
   gap: 18px;
 }
+.information__card:hover {
+  background-color: rgba(123, 74, 226, 0.1);
+}
 .information__img {
   display: flex;
   justify-content: center;
-}
-.card {
-  background-color: rgba(123, 74, 226, 0.1);
 }
 .information__desc {
   color: #fff;

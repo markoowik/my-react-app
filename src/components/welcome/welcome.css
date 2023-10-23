@@ -79,6 +79,9 @@
   font-weight: 600;
   line-height: normal;
 }
+.welcome__whatsapp:hover {
+  box-shadow: -3px 0px 18px 4px rgba(123, 74, 226, 1);
+}
 .welcome__whatsapp a {
   color: rgba(123, 74, 226, 0.5);
 }
