@@ -1,0 +1,32 @@
+.footer {
+  margin-top: 80px;
+  background-color: rgba(123, 74, 226, 0.1);
+}
+.footer__content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 230px;
+  padding: 0 887px 0 146px;
+}
+.footer__desc {
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 16px;
+
+  padding: 32px 0 27px 146px;
+  width: 480px;
+  font-weight: 400;
+  line-height: normal;
+}
+.footer__links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer__img {
+  display: flex;
+  column-gap: 20.29px;
+  position: absolute;
+
+  z-index: -10;
+}

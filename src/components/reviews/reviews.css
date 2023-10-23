@@ -1,6 +1,6 @@
 .reviews {
   margin-bottom: 123px;
-  padding: 0 140px 20px 140px;
+  padding: 209px 140px 20px 140px;
 }
 .reviews__content {
   display: flex;
@@ -21,6 +21,13 @@
   position: relative;
   z-index: -5;
   line-height: normal;
+}
+.reviews__title::before {
+  content: url("./../../img/image/recomendation.png");
+  position: relative;
+  top: 0;
+  left: 0;
+  bottom: 24px;
 }
 .reviews__text-btns {
   cursor: pointer;
